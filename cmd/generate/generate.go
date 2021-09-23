@@ -21,7 +21,7 @@ import (
 	"time"
 
 	"github.com/a-h/generate"
-	igenerate "github.com/test-network-function/test-network-function-claim/internal/generate"
+	igenerate "github.com/edcdavid/test-network-function-claim/internal/generate"
 )
 
 const (
