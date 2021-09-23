@@ -100,6 +100,10 @@
               "type": "string",
               "description": "The test-network-function (tnf) release version."
             },
+            "tnfGitCommit": {
+              "type": "string",
+              "description": "The test-network-function (tnf) Git Commit."
+            },
             "ocp": {
               "type": "string",
               "description": "OCP cluster release version."
