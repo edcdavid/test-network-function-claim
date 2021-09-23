@@ -20,7 +20,7 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"github.com/test-network-function/test-network-function-claim/pkg/claim"
+	"github.com/edcdavid/test-network-function-claim/pkg/claim"
 )
 
 type testCase struct {
