@@ -19,8 +19,8 @@ import (
 	"path"
 	"testing"
 
-	"github.com/stretchr/testify/assert"
 	"github.com/edcdavid/test-network-function-claim/pkg/claim"
+	"github.com/stretchr/testify/assert"
 )
 
 type testCase struct {
