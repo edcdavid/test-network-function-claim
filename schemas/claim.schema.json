@@ -63,7 +63,12 @@
         "CapturedTestOutput": {
           "type": "string",
           "description": "Ginkgo writer output during the test run."
+        },
+        "Url": {
+          "type": "string",
+          "description": "The Url of the test ID"
         }
+        
       },
       "additionalProperties": false,
       "required": [
