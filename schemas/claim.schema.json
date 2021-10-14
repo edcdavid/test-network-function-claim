@@ -32,13 +32,13 @@
           "type": "string",
           "description": "The JUnit test text."
         },
-        "filename": {
+        "failureLocation": {
           "type": "string",
-          "description": "The file containing the Ginkgo test suite."
+          "description": "The Filename and line number where the failure happened"
         },
-        "lineNumber": {
-          "type": "integer",
-          "description": "The line number containing the Ginkgo.It test specification."
+        "failureLineContent": {
+          "type": "string",
+          "description": "The content of the line where the failure happened"
         },
         "state": {
           "type": "string",
